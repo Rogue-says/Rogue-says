@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'am rogue i go by V<br>Currently learning and studying about cybersecurity<br>I run my own Content creation on X and I love talking about AI and security
+Hi, I'am rogue <br>Currently learning and studying about cybersecurity<br>I run my own Content creation on X and I love talking about AI and security
 
 
 ## 🌐 Socials:
