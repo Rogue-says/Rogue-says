@@ -1,5 +1,12 @@
+I'm Rogue
 
-Hi, I'am rogue <br>Currently learning and studying about cybersecurity<br>I run my own Content creation on X and I love talking about AI and security
+Aspiring Cybersecurity Practitioner
+
+Building AI agents, exploring trusted execution environments (TEE), and developing cybersecurity skills through real-world projects
+
+Currently contributing, experimenting, and shipping
+
+Sharing insights on AI&crypto and emerging technologies on X
 ##
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RogueAix) 
