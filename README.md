@@ -1,10 +1,11 @@
 I'm Rogue
 
-Aspiring Cybersecurity Practitioner
 
-Building AI agents, exploring trusted execution environments (TEE), and developing cybersecurity skills through real-world projects
+Building AI agents secured with Trusted Execution Environments (TEEs).
 
-Currently contributing, experimenting, and shipping
+Open-source developer focused on AI agents, crypto infrastructure, and verifiable execution
+
+Currently building TrusTEE and exploring decentralized AI systems and Infra
 
 Sharing insights on AI&crypto and emerging technologies on X
 
