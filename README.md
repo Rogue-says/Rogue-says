@@ -3,7 +3,7 @@ I'm Rogue
 
 Building AI agents secured with Trusted Execution Environments (TEEs).
 
-Open-source developer focused on AI agents, crypto infrastructure, and verifiable execution
+focused on AI agents, crypto infrastructure, and verifiable execution
 
 Currently building TrusTEE and exploring decentralized AI systems and Infra
 
